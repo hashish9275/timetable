@@ -175,4 +175,4 @@ Execute the program
 
 </html>
 # OUPUT
-!<img>(ss.pngs)
+!<img>(ss.png)

@@ -16,3 +16,4 @@ Execute the program
 # CODE
 
 # OUPUT
+![img](ss.png)
